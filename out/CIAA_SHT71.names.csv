@@ -1,0 +1,322 @@
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004b8 00000002 b cont.13589
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00139c 00000044 t Board_LED_Init
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0013e0 00000040 t Board_TEC_Init
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001420 00000040 t Board_GPIO_Init
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001460 00000030 t Board_ADC_Init
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001490 00000038 t Board_SPI_Init
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0014c8 00000024 t Board_I2C_Init
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a004090 00000008 t GpioButtons
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a004098 0000000c t GpioLeds
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0040a4 00000012 t GpioPorts
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0040bc 00000004 t InitClkStates
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0040c0 00000074 t pinmuxing
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0015f4 0000002c t Chip_UART_GetIndex
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a004134 00000008 t UART_BClock
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00413c 00000008 t UART_PClock
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00179c 00000014 t Chip_ADC_GetClockIndex
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0017b0 00000032 t getClkDiv
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001878 000000a4 t pll_calc_divs
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00191c 0000010c t pll_get_frac
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001a28 0000004c t Chip_Clock_FindBaseClock
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001c9c 00000022 t Chip_Clock_GetDivRate
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004c4 00000008 b audio_usb_pll_freq
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a004150 0000006c t periph_to_base
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0041bc 00000048 t InitClkStates
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00208c 00000014 t Chip_SSP_GetClockIndex
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0020a0 00000018 t Chip_SSP_GetPeriphClockIndex
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:10000000 00000038 d i2c
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:10000038 00000004 d ClockSpeed
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a004204 00000048 t lpcUarts
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004cc 00000004 b callBackFuncParams
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004d0 00000008 b tickCounter
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004d8 00000004 b tickHookFunction
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0026b4 00000030 t i2cHardwareInit
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0026e4 0000003c t i2cHardwareWrite
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002748 00000034 t gpioObtainPinInit
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004dc 00000004 b g_hUsb
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002b68 00000010 t clearInterrupt
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002b78 0000005c t serveInterrupt
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1000003c 00000048 d ultrasonicSensors
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a004384 00000003 t ultrasonicSensorsIrqMap
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:10000090 00000428 d impure_data
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a004394 t __init_array_end
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a004390 b __preinit_array_end
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a004390 t __init_array_start
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a004390 b __preinit_array_start
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003aa8 0000002c T __aeabi_dcmpun
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001ac0 0000001c T Chip_Clock_GetDividerSource
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002058 0000000e T Chip_I2CM_Xfer
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003a6c 00000012 T __aeabi_dcmple
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W TIMER2_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002410 00000014 T uartRxRead
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0039a8 0000007a T __cmpdf2
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002720 0000000e T i2cInit
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000184 00000002 W DebugMon_Handler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W RIT_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a080000 A __top_MFlashA512
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0039a8 0000007a T __eqdf2
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W ADCHS_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000114 T __section_table_start
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004ec 00000009 B TxtBLE
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001000 00000014 T setup_lcd
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W FLASH_EEPROM_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003518 0000005a T __floatdidf
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W I2C0_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0024b4 0000001e T uartReadByte
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000a30 00000010 T SHT71_SET_STATUS
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00153c 00000008 T __stdio_init
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004f5 00000001 B TX_BUFFER
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002b24 00000042 T delayRead
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00017a 00000002 W HardFault_Handler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002160 00000120 T handleMasterXferState
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000000 A __vectors_start__
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001856 0000000c T Chip_ADC_SetResolution
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004f6 00000001 B RX_BUFFER
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002680 00000034 T SysTick_Handler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001674 00000040 T Chip_UART_SetBaud
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00130c 00000002 W initialise_monitor_handles
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W SDIO_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W ATIMER_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000730 000000dc T SHT71_DEW_POINT
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000186 00000002 W PendSV_Handler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000178 00000002 W NMI_Handler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00439c R __exidx_end
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000150 T __data_section_table_end
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W I2C1_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W UART1_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003998 0000008a T __gtdf2
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003e74 0000000c T __errno
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W GPIO5_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W CAN1_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001124 0000001c T noCursor
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:53ff657e A __valid_user_code_checksum
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004e0 00000001 B _backlight
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00439c R _etext
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003a34 00000010 T __aeabi_cdcmple
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W USB1_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W I2S0_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0024d2 00000080 T waitForReceiveStringOrTimeout
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W TIMER3_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000bd4 000000c4 T SHT71_READ_HUMEDAD
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001d3e 0000000c T Chip_Clock_GetBaseClocktHz
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W UART0_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001a8 00000012 T bss_init
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003a24 00000020 T __aeabi_cdrcmple
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W SGPIO_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0034a0 00000022 T __floatsidf
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00230c 00000030 T Chip_I2C_MasterStateHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0039a0 00000082 T __ltdf2
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003b74 T __aeabi_uldivmod
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1000052c ? _noinit
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0025a6 00000018 T uartWriteString
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:10000518 00000004 B SystemCoreClock
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001620 00000054 T Chip_UART_Init
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W ADC0_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000180 00000002 W UsageFault_Handler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001dbc 0000004c T Chip_Clock_GetRate
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000300 00000288 T myTickHook
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004c1 00000001 B REG_CHECKSUM
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W GPIO6_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004e1 00000001 B _displaycontrol
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00157c 0000006c T Board_SetupClocking
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:20008000 A __top_RamAHB32
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003480 0000001e T __aeabi_ui2d
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004e2 00000001 B _Addr
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0022dc 00000030 T Chip_I2C_SetMasterEventHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00080c 0000006c T START_CONDITION_SHT71
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003ba4 000002cc T __udivmoddi4
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0031fc T __aeabi_drsub
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00408c 00000004 T ExtRateIn
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W IntDefaultHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000300 T __CRP_WORD_END__
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000b64 00000070 T SHT71_READ_HUMEDAD_CRUDA
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002cf8 0000013c T __ieee754_log10
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003a58 00000012 T __aeabi_dcmplt
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002bde 0000000a T GPIO1_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0034c4 00000042 T __extendsfdf2
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0037c8 000001d0 T __aeabi_ddiv
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W SSP0_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003208 00000276 T __adddf3
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0023e0 00000018 T uartRxReady
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a004394 R __exidx_start
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003574 00000254 T __aeabi_dmul
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:10000084 00000001 D __fdlib_version
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0002fc 00000004 T CRP_WORD
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003e80 00000048 T __libc_init_array
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001108 0000001c T display
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000a98 00000070 T SHT71_READ_TEMPERATURA_CRUDA
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003480 0000001e T __floatunsidf
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W ADC1_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001510 0000002c T Board_Init
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00139a 00000002 W _init
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000114 T __data_section_table
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003ad4 0000009e T __aeabi_d2f
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W RTC_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000a04 0000002c T SHT71_WRITE_STATUS_REGISTER
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1000052c B _ebss
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W TIMER0_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001310 00000088 T Reset_Handler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002604 0000007c T tickInit
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:20010000 A __top_RamAHB_ETB16
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W SPI_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002066 00000024 T Chip_I2CM_XferBlocking
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004f8 00000010 B TxtSTS
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0022a4 00000038 T Chip_I2C_SetClockRate
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W LCD_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000c98 00000218 T BIN16_A_DIGITAL5
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001a74 0000004c T Chip_Clock_EnableCrystal
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000588 00000030 T hm10bleTest
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:10008000 A __top_RamLoc32
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00115c 00000060 T setCursor
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004e3 00000001 B _displaymode
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001140 0000001c T noBlink
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003208 00000276 T __aeabi_dadd
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00018a 0000001e T data_init
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001224 00000034 T clear
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0039a0 00000082 T __ledf2
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004c2 00000001 B REG_STATUS_REGISTER
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003508 0000006a T __aeabi_ul2d
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W TIMER1_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004e4 00000001 B _displayfunction
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002280 00000024 T Chip_I2C_Init
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:10000508 00000004 B humedad
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W UART2_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001c30 0000006c T Chip_Clock_GetMainPLLHz
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00424c 00000136 T gpioPinsInit
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00099c 00000034 T SEND_ACK
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00258c 0000001a T uartWriteByte
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0020b8 00000012 T Chip_SSP_SetClockRate
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003a94 00000012 T __aeabi_dcmpgt
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002be8 0000000a T GPIO2_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000ed4 0000012c T FLOAT_A_LCD_BLE
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001d18 00000026 T Chip_Clock_GetBaseClock
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003a80 00000012 T __aeabi_dcmpge
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004b8 B _bss
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001824 00000032 T Chip_ADC_SetSampleRate
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003204 0000027a T __aeabi_dsub
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002b04 00000020 T delayInit
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003508 0000006a T __floatundidf
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W I2S1_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0020ca 0000003e T Chip_SSP_SetBitRate
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0010a8 00000028 T _sendNibble
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00208a 00000002 T Chip_GPIO_Init
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0040b8 00000004 T OscRateIn
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0011dc 0000001a T print_lcd
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002438 0000007c T uartInit
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1000052c ? _end_noinit
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:10008000 A _vStackTop
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002bf4 00000100 T log10
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W SSP1_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000b08 0000005c T SHT71_READ_TEMPERATURA
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000178 T __bss_section_table_end
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001258 000000b4 T begin
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0034a0 00000022 T __aeabi_i2d
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00277c 00000194 T gpioInit
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004bc 00000005 B NUM
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000a40 00000058 T SHT71_READ_STATUS_REGISTER
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003e70 00000002 W __aeabi_ldiv0
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0037c8 000001d0 T __divdf3
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003574 00000254 T __muldf3
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0029bc 0000001c T USB0_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W GPIO3_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000eb0 00000024 T FLOAT_A_DIGITAL5
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00233c 00000018 T Chip_I2C_IsStateChanged
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W SCT_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001adc 0000001c T Chip_Clock_GetDividerDivisor
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0002fc T __CRP_WORD_START__
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003ec8 00000094 T memset
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00017c 00000002 W MemManage_Handler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0005b8 00000178 T main
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W WDT_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:2000c000 A __top_RamAHB16
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1008a000 A __top_RamLoc40
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000182 00000002 W SVC_Handler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002e34 00000004 T matherr
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003ad4 0000009e T __truncdfsf2
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003518 0000005a T __aeabi_l2d
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0023f8 00000018 T uartTxReady
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0010d0 00000018 T _send
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W GPIO7_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001d4c 0000003c T Chip_Clock_EnableOpts
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001af8 000000b8 T Chip_Clock_GetClockInputHz
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001bb0 00000080 T Chip_Clock_CalcMainPLLValue
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00094c 00000050 T GET_ACK
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00238c 00000038 T SystemInit
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W SPIFI_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002acc 00000038 T delay
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W QEI_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000150 T __bss_section_table
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0039a8 0000007a T __nedf2
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002910 00000056 T gpioWrite
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001398 00000002 W _fini
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0017e4 00000040 T Chip_ADC_Init
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004e5 00000001 B _numCols
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:10000528 00000004 B g_pUsbApi
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001544 00000038 T Board_SetupMuxing
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0016b4 000000e8 T Chip_UART_SetBaudFDR
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0025c0 0000000c T tickRead
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:10000520 00000008 B tickRateMS
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1000050c 00000004 B tempDewPoint
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W ETH_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004e8 00000002 B posc
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:10000088 00000004 D _impure_ptr
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0009d0 00000034 T NO_ACK
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:10000000 ? _end_uninit_RESERVED
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002552 0000003a T waitForReceiveStringOrTimeoutBlocking
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002e48 000003b4 T __ieee754_log
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002424 00000014 T uartTxWrite
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W CAN0_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001f5c 000000fc T Chip_I2CM_XferHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:10000000 D _data
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0025cc 00000020 T tickCallbackSet
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1000052c B _pvHeapStart
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000178 T __section_table_end
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002108 00000038 T Chip_SSP_Init
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002354 00000038 T Chip_I2C_EventHandlerPolling
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W GINT0_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002e38 00000010 T nan
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W DAC_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00272e 00000018 T i2cWrite
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0014ec 00000024 T Board_Debug_Init
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003a44 00000012 T __aeabi_dcmpeq
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004ea 00000001 B _numLines
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004b8 D _edata
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:10000510 00000002 B FLAGS_I2C
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000878 00000068 T I2C_OUTPUT
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002140 00000020 T Chip_I2C_EventHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W M0SUB_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001e08 00000154 T Chip_SetupCoreClock
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002bd4 0000000a T GPIO0_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:10000514 00000004 B temperatura
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0010e8 00000020 T home
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000000 00000040 T g_pfnVectors
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001864 00000014 T SystemCoreClockUpdate
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:100004ba 00000001 B LAST_STATUS_REG_SET
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W DMA_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W EVRT_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1b080000 A __top_MFlashB512
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003e70 00000002 W __aeabi_idiv0
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003aa8 0000002c T __unorddf2
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a00017e 00000002 W BusFault_Handler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001d88 00000034 T Chip_Clock_Enable
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003a34 00000010 T __aeabi_cdcmpeq
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003998 0000008a T __gedf2
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W UART3_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W MCPWM_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W M0APP_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a002966 00000054 T gpioRead
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0034c4 00000042 T __aeabi_f2d
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0029d8 000000f4 T boardInit
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001050 00000058 T _write2Wire
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a000040 000000d4 T g_pfnVendorVectors
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0011f8 0000002c T clearLinea
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a003204 0000027a T __subdf3
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W GINT1_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0011bc 00000020 T write_lcd
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0025ec 00000018 T tickPowerSet
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0008e0 0000006c T I2C_INPUT
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001cc0 00000058 T Chip_Clock_SetBaseClock
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0023c4 0000001c T cyclesCounterInit
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0001ba 00000002 W GPIO4_IRQHandler
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a001014 0000003c T _incrementarPosc
+examples_c/sapi/CIAA_SHT71/out/CIAA_SHT71.elf:1a0015e8 0000000c T Board_SystemInit
