@@ -13,7 +13,9 @@ https://photos.app.goo.gl/G4mbapnNmrqqcbCh9
 Como la conversión de google docs a ppx cuando se ve en Free office deja mucho que desear, agrego el link a la presentacion en google docs:
 https://docs.google.com/presentation/d/1S_9oF_WvlABtF_b_2HZpKQsmvKICniZv_wIQvwguyc0/edit?usp=sharing
 
-No pude pushear ninguna de las presentaciones, ni .ppx ni .odt Me dice textualmente:
+No pude pushear ninguna de las presentaciones, ni .ppx ni .odt 
+
+Textualmente luego del push dice:
 
 To https://github.com/pablojosecarlo/ProtocolosDeComunicacion.git
  ! [rejected]        master -> master (fetch first)
